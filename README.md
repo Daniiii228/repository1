@@ -14,4 +14,4 @@ normal
 
 ***~~everything~~***
 
-the google site is [google.com](google.com)
+the google site is [google.com](https://google.com)
