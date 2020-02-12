@@ -6,10 +6,10 @@ normal
 
 ### even smaller
 
-** blacker **
+**blacker**
 
-* cursive *
+*cursive*
 
-~~ italian ~~
+~~italian~~
 
-***~~ everything ~~***
+***~~everything~~***
